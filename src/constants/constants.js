@@ -5,7 +5,7 @@ export const projects = [
       image: '/images/Mern-Stack-Developer.png',
       tags: ['Mongo', 'Express', 'React', 'Node'],
     source: '/',
-    visit: '/#',
+    visit: '/https://github.com/Retr0-XD/Doge-gram',
     id: 0,
   },
   {
