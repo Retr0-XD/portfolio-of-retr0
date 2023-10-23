@@ -38,7 +38,7 @@ export const projects = [
     title: 'Anime Gallery',
     description: "Using React,Next.js, Node.js, Express & MongoDB , I've created the web application of an gallery app which is responsive paired with tailwind css",
       image: 'https://qph.cf2.quoracdn.net/main-qimg-f7d77e81355f01f2a8e22927e3ab6732-lq',
-      tags: ['Mongo', 'Express', 'React', 'Node', 'Nextjs],
+      tags: ['Mongo', 'Express', 'React', 'Node', 'Nextjs'],
     source: 'https://google.com',
     visit: 'https://github.com/Retr0-XD/anime-next-app',
     id: 4,
