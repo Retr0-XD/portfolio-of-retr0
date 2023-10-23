@@ -34,13 +34,30 @@ export const projects = [
     source: 'https://google.com',
     visit: 'https://github.com/Retr0-XD/RSA-encryption-in-terminal',
     id: 3,
+  }, {
+    title: 'Anime Gallery',
+    description: "Using React,Next.js, Node.js, Express & MongoDB , I've created the web application of an gallery app which is responsive paired with tailwind css",
+      image: 'https://qph.cf2.quoracdn.net/main-qimg-f7d77e81355f01f2a8e22927e3ab6732-lq',
+      tags: ['Mongo', 'Express', 'React', 'Node', 'Nextjs],
+    source: 'https://google.com',
+    visit: 'https://github.com/Retr0-XD/anime-next-app',
+    id: 4,
   },
+  {
+    title: 'Flash the OSINT',
+    description: "an application Python , Sherlock and tkinker which hunts information out of sources and crawlers",
+      image: 'https://www.denofgeek.com/wp-content/uploads/2020/05/the-flash-754-page-3.jpg',
+      tags: ['Python', 'Tkinker', 'Flask', 'Sherlock'],
+    source: 'https://google.com',
+    visit: 'https://github.com/Retr0-XD/Flash-The-OSINT',
+    id: 5,
+  }
 ];
 
 export const TimeLineData = [
   { year: 2017, text: 'Started my journey', },
   { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
+  { year: 2019, text: 'Developed various apps', },
   { year: 2020, text: 'Shared my projects with the world', },
   { year: 2021, text: 'Started my own platform', },
 ];
