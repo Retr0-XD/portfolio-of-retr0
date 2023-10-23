@@ -19,7 +19,7 @@ const Technologies = () =>  (
           <ListTitle>MERN-Stack</ListTitle>
           <ListParagraph>
             Experiece with <br />
-            Express.js, React.js,<br/>Monjo.db , Node.js
+            Express.js, React.js,<br/>Mongo.db , Node.js,<br/> Next.js, Solidity,<br/> C#
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -31,7 +31,7 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Node and Databases
+            Linux (Bash scripting), Databases <br/> Networking and API.
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -40,9 +40,9 @@ const Technologies = () =>  (
           <DiVisualstudio size="3rem" />
         </picture>
         <ListContainer>
-          <ListTitle>Dev</ListTitle>
+          <ListTitle>DevOps</ListTitle>
           <ListParagraph>
-            Development in android and desktop applications
+           Docker , Kubernetees , Jenkins & <br/> Development in android and desktop applications
           </ListParagraph>
         </ListContainer>
       </ListItem>
