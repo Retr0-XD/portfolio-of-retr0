@@ -1,4 +1,3 @@
 [build]
-    command = "npm install next/router"
-    command = "npm run build && npm run export"
+    command = "npm install next/router && npm run build && npm run export"
     publish = "out"
